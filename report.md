@@ -3,7 +3,7 @@
 
 ## Overview of the Analysis
 
-The purpose of this analysis was to evaluate the performance of a machine learning model (logistic regression) in predicting credit risk. Specifically, the goal was to classify loans as either `0` (healthy loan) or `1` (high-risk loan) using financial data.
+The purpose of this analysis is to evaluate the performance of a machine learning model (logistic regression) in predicting credit risk. The goal of the model was to classify loans as either `0` (healthy loan) or `1` (high-risk loan) using financial data.
 
 ### Really Cool Facts About the Data That May Knock Your Socks Off
 - The dataset contained financial information regarding loan applications.
